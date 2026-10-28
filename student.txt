@@ -3,3 +3,13 @@ Name: Rahul Sharma
 Roll Number: 101
 Course: AIML
 Semester: 4
+
+Name: Ayesha Khan
+Roll Number: 102
+Course: AIML
+Semester: 4
+
+Name: Arman Shaikh
+Roll Number: 103
+Course: AIML
+Semester: 4
